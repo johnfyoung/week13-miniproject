@@ -41,7 +41,7 @@ Trip.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: "location",
+    modelName: "trip",
   }
 );
 
